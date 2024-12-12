@@ -1,0 +1,89 @@
+
+body {
+    font-family: 'Lexend', sans-serif;
+    background-color: #1A1A1A;
+    color: #E3D5A6;
+    width: 1440px;
+    height: 6818px;
+    margin: 0 auto;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+.header {
+    background-color: #3E2F2F;
+    text-align: center;
+    padding: 40px 0;
+    color: #F5CF63;
+}
+
+.header h1 {
+    font-size: 4rem;
+}
+
+.header h2 {
+    font-size: 3rem;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 3.5rem;
+    margin: 60px 0;
+    color: #F5CF63;
+}
+
+.about {
+    background-color: #9F3537;
+    color: #F5CF63;
+    padding: 100px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    font-size: 1.5rem;
+}
+
+.card {
+    background-color: #F5CF63;
+    color: #9F3537;
+    border: none;
+    border-radius: 20px;
+    height: 800px;
+    padding: 30px;
+}
+
+.card-title {
+    font-size: 2rem;
+}
+
+.card-text {
+    font-size: 1.5rem;
+}
+
+.card img {
+    border-radius: 20px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.footer {
+    text-align: center;
+    padding: 80px;
+    background-color: #3E2F2F;
+    margin-top: 80px;
+    font-size: 1.5rem;
+}
+
+.row {
+    row-gap: 80px;
+}
+
+a {
+    color: #F5CF63;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}
